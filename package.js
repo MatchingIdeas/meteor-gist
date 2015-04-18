@@ -1,7 +1,7 @@
 Package.describe({
   name: "sergeyt:gist",
-  summary: "Provides a dead simple way to get and inject public gist into dynamic meteor template.",
-  git: "https://github.com/sergeyt/meteor-gist.git",
+  summary: "Provides a dead simple way to get gists based on their id",
+  git: "https://github.com/MatchingIdeas/meteor-gist.git",
   version: "0.1.0"
 });
 
